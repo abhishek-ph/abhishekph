@@ -1,0 +1,18 @@
+#inp1{
+    color: antiquewhite;
+}
+#inp2{
+    background-color: aqua;
+    font-size: larger;
+}
+#inp3{
+    background-color: bisque;
+}
+.grp1{
+    background-color: rgb(227, 216, 244);
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px dotted red;
+    margin: 5% 30% 2% 20%;
+    padding: 10px 30px 4px 10px;
+}
+   
